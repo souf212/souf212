@@ -2,8 +2,7 @@
 <h3 align="center">Full stack developer dedicated to turning ideas into reality through code.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souf212" alt="souf212" /></a> </p>
-
+ 
 - 🔭 I’m currently working on [Chat App](https://github.com/souf212/Web-Chat)
 
 - 🌱 I’m currently learning **Angular**
