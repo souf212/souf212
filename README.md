@@ -1,78 +1,78 @@
 <h1 align="center">Hi 👋, I'm Soufiane El Otmani</h1>
 
 <h3 align="center">
-C# / .NET Full-Stack Developer | Building robust, scalable, and secure applications
+Junior C# / .NET Developer | Looking for Internship / PFE Opportunity
 </h3>
 
 <p align="center">
-I specialize in designing and developing backend-driven applications using
-<strong>C#, ASP.NET Core, and SQL-based databases</strong>.
-I focus on clean architecture, performance, maintainability, and real-world production needs.
+Computer science student and junior developer passionate about
+<strong>C# and ASP.NET Core</strong>.
+I aim to build clean, maintainable, and well-structured applications while
+continuously improving my backend and software engineering skills.
 </p>
 
 ---
 
-### 🚀 What I do
+### 🎯 Profile
 
-- 🧠 Backend development with **C# & ASP.NET Core**
-- 🏗️ Clean Architecture, SOLID principles, and layered design
-- 🔐 Secure REST APIs (authentication, authorization, validation)
-- 🗄️ Relational & NoSQL databases (SQL Server, PostgreSQL, MongoDB)
-- 🐳 Containerized applications with Docker
-- ⚙️ CI/CD basics and cloud-ready applications
+- 🎓 Computer science student seeking a **PFE / Internship in .NET**
+- 💻 Junior **C# / ASP.NET Core** developer
+- 🧠 Strong interest in backend development and software architecture
+- 📚 Motivated learner, comfortable with documentation and best practices
 
 ---
 
-### 🌱 Currently Learning
+### 🛠️ Technical Skills
 
-- **Advanced ASP.NET Core**
-- **Angular** for enterprise front-end integration
-- **Microservices & distributed systems concepts**
+#### Backend (.NET)
+- C# (OOP, LINQ, async/await)
+- ASP.NET Core (Web API, MVC basics)
+- RESTful API design
+- Entity Framework Core (Code First)
+- Authentication & Authorization (JWT – basics)
+
+#### Databases
+- SQL Server
+- PostgreSQL
+- MongoDB (basics)
+- Database modeling & relationships
+
+#### Frontend (Support level)
+- Angular (learning)
+- React (basics)
+- HTML / CSS / JavaScript
+
+#### Tools & Environment
+- Git & GitHub
+- Docker (basics)
+- Linux
+- Visual Studio / VS Code
 
 ---
 
-### 👨‍💻 Projects
+### 🌱 Currently Improving
 
-All my projects are available here:  
-👉 https://github.com/souf212
+- ASP.NET Core advanced concepts
+- Clean Architecture & SOLID principles
+- Unit testing fundamentals
+- Angular integration with .NET APIs
 
 ---
 
 ### 📫 Contact
 
 - Email: **souf2001elotmani@gmail.com**
+- GitHub: https://github.com/souf212  
 - LinkedIn:  
 <a href="https://www.linkedin.com/in/soufiane-el-otmani-46a4ba215/" target="_blank">
-LinkedIn Profile
+Soufiane El Otmani
 </a>
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 Objective
 
-#### Backend & .NET
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-</p>
-
-#### Frontend
-<p>
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-</p>
-
-#### DevOps & Tools
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-</p>
+To join a professional team where I can:
+- Learn from experienced .NET developers
+- Contribute to real-world projects
+- Grow as a backend and full-stack .NET developer
