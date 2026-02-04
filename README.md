@@ -23,13 +23,6 @@ I focus on clean architecture, performance, maintainability, and real-world prod
 
 ---
 
-### 🔭 Current Work
-
-- Working on a **Chat Application** built with ASP.NET Core  
-  👉 https://github.com/souf212/Web-Chat
-
----
-
 ### 🌱 Currently Learning
 
 - **Advanced ASP.NET Core**
